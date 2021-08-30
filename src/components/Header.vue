@@ -3,7 +3,7 @@
     <!--ヘッダー内容-->
     <router-link to="/home">
       <img
-        src="../assets/img_curry/curry_logo.png"
+        src="../public/img/curry_logo.png"
         height="80px"
         width="160px"
       />
