@@ -18,7 +18,7 @@ export default new Vuex.Store({
           "食べると勝負に勝てると言われる勝つカレー。ナマステカレー定番の１品です",
         price: 1490,
         subPrice: 2570,
-        img: "/img_curry/1.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 2,
@@ -27,7 +27,7 @@ export default new Vuex.Store({
           "グリーンアスパラと相性の良いベーコンにいろどりのフレッシュトマトをトッピングし特製マヨソースでまとめた商品です",
         price: 1490,
         subPrice: 2570,
-        img: "/img_curry/2.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 3,
@@ -36,7 +36,7 @@ export default new Vuex.Store({
           "トロトロの牛すじとネギの風味が格別な味わいシンプルなカレーです！",
         price: 1490,
         subPrice: 2570,
-        img: "/img_curry/3.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 4,
@@ -45,7 +45,7 @@ export default new Vuex.Store({
           "マイルドな味付けのカレーに大きくカットした味噌カツをのせた、バターとチーズの風味が食欲をそそるお子様でも楽しめる商品です",
         price: 1900,
         subPrice: 2980,
-        img: "/img_curry/4.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 5,
@@ -54,7 +54,7 @@ export default new Vuex.Store({
           "カレーはライスだけではありません。ナマステピザが開発したカレーラーメンは絶品の美味しさ！",
         price: 1900,
         subPrice: 2980,
-        img: "/img_curry/5.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 6,
@@ -63,7 +63,7 @@ export default new Vuex.Store({
           "やわらかくあっさりとしたヒレ肉を上質な衣で包み込みました。4種類の濃厚な味わいが一つで楽しめるカレーです",
         price: 2700,
         subPrice: 4050,
-        img: "/img_curry/6.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 7,
@@ -72,7 +72,7 @@ export default new Vuex.Store({
           "こだわりのソースで、旨みとコクを堪能！濃厚Gorgeous4とは、動物由来の原材料を使用していないカレーです。ベジタリアンの方にオススメです",
         price: 2570,
         subPrice: 3780,
-        img: "/img_curry/7.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 8,
@@ -81,7 +81,7 @@ export default new Vuex.Store({
           "ナマステカレー自慢のカレーに魚介のダシ、ローストオニオンのコクが加わった絶妙なスープをお楽しみください",
         price: 2160,
         subPrice: 3380,
-        img: "/img_curry/8.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 9,
@@ -90,7 +90,7 @@ export default new Vuex.Store({
           "にんにくとトマトの旨みが効いたスパイスカレー。食べると思わず元気が出るラクラクカレーの自信作",
         price: 2700,
         subPrice: 4050,
-        img: "/img_curry/9.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 10,
@@ -99,7 +99,7 @@ export default new Vuex.Store({
           "カレードリアの王道！ホワイトソースとカレーのダブルソースとなす、ほうれん草、チーズのおいしい組み合わせ",
         price: 2160,
         subPrice: 3380,
-        img: "/img_curry/10.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 11,
@@ -107,7 +107,7 @@ export default new Vuex.Store({
         text: "ホワイトソースとカレーのダブルソースにハンバーグを合わせました",
         price: 2700,
         subPrice: 4050,
-        img: "/img_curry/11.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 12,
@@ -116,7 +116,7 @@ export default new Vuex.Store({
           "季節の野菜が一つになった4種の栄養満点カレー。ナマステカレーオリジナル商品でベジタリアンの方にオススメです",
         price: 2160,
         subPrice: 3380,
-        img: "/img_curry/12.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 13,
@@ -125,7 +125,7 @@ export default new Vuex.Store({
           "あらびきスライス牛肉とイタリアンチーズを、トマトソースと特製マヨソースの2種類のソースで召し上がって頂く商品です",
         price: 2160,
         subPrice: 3380,
-        img: "/img_curry/13.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 14,
@@ -134,7 +134,7 @@ export default new Vuex.Store({
           "デミグラスソースでじっくり煮込んだ旨味たっぷりのえびとナスのカレー",
         price: 2980,
         subPrice: 4460,
-        img: "/img_curry/14.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 15,
@@ -143,7 +143,7 @@ export default new Vuex.Store({
           "ナマステピザ自慢「特うまプルコギ」定番「デラックス」お子様に人気「ツナマイルド」女性に好評「チーズ＆チーズ」の４種のおいしさを贅沢に組み合わせました",
         price: 2440,
         subPrice: 3650,
-        img: "/img_curry/15.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 16,
@@ -152,7 +152,7 @@ export default new Vuex.Store({
           "人気ナンバー１！魚介の旨みたっぷり！人気の海の幸と、野菜のリッチなおいしさ",
         price: 2700,
         subPrice: 4050,
-        img: "/img_curry/16.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 17,
@@ -161,7 +161,7 @@ export default new Vuex.Store({
           "みんな大好き！学芸会で作るような味を再現！定番のおいしさを味わえます",
         price: 2440,
         subPrice: 3650,
-        img: "/img_curry/17.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
       {
         id: 18,
@@ -169,7 +169,7 @@ export default new Vuex.Store({
         text: "カレーが黄金に輝く、超高級鶏肉を使用したカレーです",
         price: 2700,
         subPrice: 4050,
-        img: "/img_curry/18.jpg",
+        img: "require(@/assets/img/1.jpg)",
       },
     ],
   },
